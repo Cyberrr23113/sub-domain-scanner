@@ -1,9 +1,8 @@
 # subdomain-scaner
 
-Kullanımı.
+use of
 
 
-python3 main.py
-
-hedef isteyecek sizlerde hedefinizi girebilrisiniz.
+python3 rixiwa.py
+You can enter your target, which will ask for a target.
 google.com
