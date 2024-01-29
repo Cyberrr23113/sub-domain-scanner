@@ -32,7 +32,7 @@ coder: https://t.me/rixiwa_bot
                        
 """)
 
-target_domain = input("Hedef site örnk(google.com): ")
+target_domain = input("target sample site (google.com): ")
 wordlist = "wordlist.txt"
 
 check_subdomains(target_domain, wordlist)
