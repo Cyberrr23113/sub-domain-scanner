@@ -16,7 +16,7 @@ def check_subdomains(domain, wordlist):
 
 print("""
 	                                            
-     𝐀𝐍𝐎𝐍𝐔𝐒𝐄𝐑𝐋𝐀𝐍𝐃
+    【A】【N】【O】【N】【U】【S】【E】【R】【L】【A】【N】【D】
                            
 
 coder: https://t.me/anonuserland
