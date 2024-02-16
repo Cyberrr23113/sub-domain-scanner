@@ -3,7 +3,7 @@
 use of
 
 
-python3 rixiwa.py
+python3 anon.py
 
 
 
