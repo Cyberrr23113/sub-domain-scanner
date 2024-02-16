@@ -16,7 +16,7 @@ def check_subdomains(domain, wordlist):
 
 print("""
 	                                            
-     🇦​🇳​🇴​🇳​🇺​🇸​🇪​🇷​🇱​🇦​🇳​🇩​
+     𝐀𝐍𝐎𝐍𝐔𝐒𝐄𝐑𝐋𝐀𝐍𝐃
                            
 
 coder: https://t.me/anonuserland
