@@ -16,7 +16,12 @@ def check_subdomains(domain, wordlist):
 
 print("""
 	                                            
-    【A】【N】【O】【N】【U】【S】【E】【R】【L】【A】【N】【D】
+   LOADING anonuserland
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▢
+╭━╮╭━╮╭╮　╱
+╰━┫╰━┫╰ ╯╱╭╮
+╰━╯   ╰━╯　╱　╰ ╯
+COMPLETE
                            
 
 coder: https://t.me/anonuserland
