@@ -16,7 +16,7 @@ def check_subdomains(domain, wordlist):
 
 print("""
 	                                            
-   LOADING anonuserland
+   LOADING kdeneonn
 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▢
 ╭━╮╭━╮╭╮　╱
 ╰━┫╰━┫╰╯ ╱╭╮
@@ -24,7 +24,7 @@ print("""
 COMPLETE
                            
 
-coder: https://t.me/anonuserland
+coder: https://t.me/kdeneonn
 
 
 
